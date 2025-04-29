@@ -8,7 +8,7 @@ use spl_token::instruction as token_instruction;
 use mpl_token_metadata::instructions as metadata_instruction;
 use std::str::FromStr;
 
-declare_id!("oldfart111111111111111111111111111111111111111");
+declare_id!("AYJhUBEebntBVPvnKmNNymQHLTnQKkdKRyx8aspb3qe5");
 
 // Fixed token mint we're wrapping (FartCoin)
 const FARTCOIN_MINT: &str = "9BB6NFEcjBCtnNLFko2FqVQBq8HHM13kCyYcdQbgpump";
